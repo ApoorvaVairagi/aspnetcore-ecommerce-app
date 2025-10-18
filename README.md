@@ -1,11 +1,5 @@
-# aspnetcore-ecommerce-app
-A full-featured e-commerce web application built using ASP.NET Core MVC, Entity Framework Core, and ASP.NET Core Identity. Developed by following a real-world project course.
-
-
 # 🛍️ ASP.NET Core E-Commerce Application
-
-A full-featured **E-Commerce web application** built using **ASP.NET Core MVC**, **Entity Framework Core**, and **ASP.NET Core Identity**.  
-This project is developed while following the course *“Build Real World E-Commerce Application using ASP.NET Core MVC, Entity Framework Core, and ASP.NET Core Identity”*.
+A full-featured e-commerce web application built using ASP.NET Core MVC, Entity Framework Core, and ASP.NET Core Identity. Developed by following a real-world project course.
 
 ---
 

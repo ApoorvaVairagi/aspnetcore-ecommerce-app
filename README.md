@@ -31,8 +31,3 @@ It includes user authentication, product management, shopping cart, checkout, an
 | **Authentication** | ASP.NET Core Identity |
 | **Tools & IDE** | Visual Studio / VS Code, Git, GitHub |
 | **Version Control** | Git (feature-based branching) |
-
----
-
-## 📂 Project Structure
-
